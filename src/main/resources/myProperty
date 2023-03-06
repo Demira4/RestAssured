@@ -3,3 +3,4 @@ postman_collection = https://www.postman.com/7431899/workspace/spoonacular-api/c
 apiKey =d06b0a947ecf49e9a5a76ffd895d35bd
 base_url=https://api.spoonacular.com
 username = Irina
+url=http://localhost:8189/market/api/v1/
